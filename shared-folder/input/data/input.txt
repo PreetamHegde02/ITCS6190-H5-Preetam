@@ -1,1 +1,11 @@
 # Create your own input dataset
+Spark is fast
+Spark is powerful
+Spark is easy to use
+Spark is used for big data
+
+Big data is everywhere
+Big data is growing
+Big data is powerful
+Big data needs Hadoop
+Big data needs Spark

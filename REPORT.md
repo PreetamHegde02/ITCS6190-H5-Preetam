@@ -1,8 +1,8 @@
 # Hands-on L5: Report
 
-**Name:**
-**Student ID:**
-**Email:**
+**Name:*Preetam Hegde*
+**Student ID:*801496859*
+**Email:*phegde4@charlotte.edu*
 
 ---
 
